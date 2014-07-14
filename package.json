@@ -1,0 +1,30 @@
+{
+  "name": "qparam",
+  "version": "0.1.0",
+  "description": "The simplest way to read parameters from query string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jgebczak/qparam.git"
+  },
+  "readmeFilename": "README.md",
+  "keywords": [
+    "query",
+    "query string",
+    "querystring",
+    "parameters",
+    "params",
+    "request",
+    "url param",
+    "query param",
+    "get"
+  ],
+  "author": "James Gebczak",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.10.x"
+  }
+}
