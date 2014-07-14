@@ -22,6 +22,9 @@ See the example below.
 
   Type in your JS file (for example "server.js"):
 
+    var http = require('http');
+    var qparam = require('qparam');
+
     http.createServer(function(request,response){
 
         var name = request.param('name')
