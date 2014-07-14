@@ -1,6 +1,6 @@
 {
   "name": "qparam",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The simplest way to read parameters from query string",
   "main": "index.js",
   "scripts": {
